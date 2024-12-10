@@ -11,7 +11,7 @@ public class TrianguloRectangulo {
     }
 
     double calcularArea() {
-        return (base * altura) / 2;
+        return (base * altura) / 2.0;
     }
 
     double calcularPerimetro() {
